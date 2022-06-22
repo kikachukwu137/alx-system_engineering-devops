@@ -1,6 +1,2 @@
 #!/bin/bash
-107665556 .                            107667573 1-listit         107867579 4-listmorefiles                                 
-
- 40317422 ..                           107657626 2-bring_me_home  107868067 5-listfilesdigitonly                            
-
- 107665557 0-current_working_directory  107854787 3-listfiles      107861641 README.md 
+ls -1na 
