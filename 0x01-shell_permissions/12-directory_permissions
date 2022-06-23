@@ -1,2 +1,2 @@
 #!/bin/bash
-drwxr-xr--
+mkdir -m 754 my_dir
